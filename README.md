@@ -3,7 +3,7 @@ Logos, Icons, and more for xBacked.
 
 <h2> Logo </h2>
 
-Folks Finance icon can also be used without the logotype. Please don’t use “Folks” without “Finance” or vice-versa.
+Folks Finance icon can also be used without the logotype.
 
 Image | Description 
 :----: | :----:
